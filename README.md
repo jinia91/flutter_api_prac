@@ -1,16 +1,5 @@
 # dirtcheck_api_test
 
-A new Flutter project.
+<img width="1342" alt="스크린샷 2022-07-13 오후 10 27 51" src="https://user-images.githubusercontent.com/85499582/178744941-4308ad43-d5eb-47fb-a37b-f51d25d227bd.png">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+공공api rest 통신으로 데이터 
